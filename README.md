@@ -24,7 +24,7 @@ This project is part of my backend development journey, where I practiced buildi
 *   **Clean and scalable project structure**: Follows industry best practices for folder organization.
 
 ## 📂 Project Structure
-Referencing the **akhilsam-webdev/day-4** file structure template:
+Referencing the **akhilsam-webdev/Day-5-pra** file structure:
 
 ```text
 Day-5-pra/
